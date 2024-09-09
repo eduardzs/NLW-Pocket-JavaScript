@@ -1,4 +1,4 @@
-## Objetivos do App
+## Objetivos do App de Gerenciamento de Metas
 
 - Criar metas.
 - Listar metas:
