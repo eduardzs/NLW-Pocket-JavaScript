@@ -49,6 +49,12 @@ Uma linguagem de programação é a forma como damos instruções a um computado
 ## Estruturas de Dados
 
 - **Arrays**: Listas que podem conter qualquer tipo de dado. Exemplo: `[1, "texto", true]`.
+
+  - Métodos comuns:
+    - `push()`: Adiciona um elemento ao final do array.
+    - `find()`: Retorna o primeiro elemento que satisfaz uma condição.
+    - `forEach()`: Executa uma função em cada elemento do array.
+
 - **Objetos**:
   - **Atributos e métodos**: Dados e funções associadas a um objeto. Exemplo:
     ```javascript
