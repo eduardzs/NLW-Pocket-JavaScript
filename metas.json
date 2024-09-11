@@ -1,0 +1,14 @@
+[
+  {
+    "value": "Correr",
+    "checked": true
+  },
+  {
+    "value": "Meditar",
+    "checked": true
+  },
+  {
+    "value": "Beber 3L de Água",
+    "checked": false
+  }
+]

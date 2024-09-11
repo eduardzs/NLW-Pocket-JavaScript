@@ -1,9 +1,9 @@
 ## Objetivos do App de Gerenciamento de Metas
 
-- [X] Criar metas.
-- [X] Listar metas:
-  - Metas realizadas.
-  - Metas abertas.
-- [X] Marcar ou desmarcar metas como concluídas.
-- Remover metas.
-- Sistema de mensagens integrado.
+- [x] Criar metas.
+- [x] Listar metas:
+  - [x] Metas realizadas.
+  - [x] Metas abertas.
+- [x] Marcar ou desmarcar metas como concluídas.
+- [x] Remover metas.
+- [x] Sistema de mensagens integrado.
